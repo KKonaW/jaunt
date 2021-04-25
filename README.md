@@ -7,7 +7,8 @@ Gives Jaunt to any Class
 --- | ---
 jaunt | Turn module on/off
 range | set jump range (default 30m)
-distance| setdist range (default 150)
-unstuck | unstuck? pepega
+distance | setdist range (default 150)
+cooldown | set cd (default 4000ms = 4seconds)
+
 
 
