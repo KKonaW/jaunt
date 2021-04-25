@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "jaunt-master",
+    "author": "hmm",
+    "description": "Gives Jaunt to any Class",
+    "version": "2.0",
+    "options": {
+        "niceName": "jaunt-master",
+        "guiName": "jaunt-master"
+    }
+}
